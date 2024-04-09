@@ -1,1 +1,7 @@
+.head, form {
+    padding-left: 2%;
+}
 
+button, input {
+    margin-top: .25%;
+}
